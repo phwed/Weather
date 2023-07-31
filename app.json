@@ -5,6 +5,21 @@
       "bundler": "metro"
     },
     "name": "Weather",
-    "slug": "Weather"
+    "slug": "Weather",
+    "android": {
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b2bdc7b-f6bb-49c7-9a05-2eae0b1a4ce7"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0b2bdc7b-f6bb-49c7-9a05-2eae0b1a4ce7"
+    },
+    "ios": {}
   }
 }
